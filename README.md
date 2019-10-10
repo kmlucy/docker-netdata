@@ -2,4 +2,4 @@
 
 To run, see below.
 
-Based on [titpetric/netdata](https://github.com/titpetric/netdata)
+Based on [netdata/netdata](https://github.com/netdata/netdata)
